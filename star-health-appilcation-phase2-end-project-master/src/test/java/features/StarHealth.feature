@@ -20,4 +20,4 @@ Then User navigates back to the parent tab
 
 Examples: 
 | URL | FullName | PhNo | PIN | optionPlan |
-|https://www.starhealth.in/|teja|8888888888|518124|My Family|
+|https://www.starhealth.in/|Arpita|8888888888|518124|My Family|
