@@ -5,7 +5,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="C:\\Users\\madhutejaswara reddy\\eclipse-workspace\\endprojecthealth\\src\\test\\java\\features",
+@CucumberOptions(features="C:\\Users\\Exam\\eclipse-workspace\\SeleniumWorkspace\\Cucumber\\star-health_Phase2EndProject\\src\\test\\java\\features",
 				glue= {"steps"},
 				plugin= {"html:target/Cucumberreport.html",
 						"pretty",
